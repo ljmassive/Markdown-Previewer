@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ljmassive.github.io/csb-hwdyr/static/css/main.b93469d7.chunk.css",
+    "main.js": "https://ljmassive.github.io/csb-hwdyr/static/js/main.1d166f0e.chunk.js",
+    "main.js.map": "https://ljmassive.github.io/csb-hwdyr/static/js/main.1d166f0e.chunk.js.map",
+    "runtime-main.js": "https://ljmassive.github.io/csb-hwdyr/static/js/runtime-main.1d2eccc0.js",
+    "runtime-main.js.map": "https://ljmassive.github.io/csb-hwdyr/static/js/runtime-main.1d2eccc0.js.map",
+    "static/js/2.4e16c1c4.chunk.js": "https://ljmassive.github.io/csb-hwdyr/static/js/2.4e16c1c4.chunk.js",
+    "static/js/2.4e16c1c4.chunk.js.map": "https://ljmassive.github.io/csb-hwdyr/static/js/2.4e16c1c4.chunk.js.map",
+    "index.html": "https://ljmassive.github.io/csb-hwdyr/index.html",
+    "static/css/main.b93469d7.chunk.css.map": "https://ljmassive.github.io/csb-hwdyr/static/css/main.b93469d7.chunk.css.map",
+    "static/js/2.4e16c1c4.chunk.js.LICENSE.txt": "https://ljmassive.github.io/csb-hwdyr/static/js/2.4e16c1c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d2eccc0.js",
+    "static/js/2.4e16c1c4.chunk.js",
+    "static/css/main.b93469d7.chunk.css",
+    "static/js/main.1d166f0e.chunk.js"
+  ]
+}
